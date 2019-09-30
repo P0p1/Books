@@ -1,7 +1,8 @@
-main.form-control
+main .form-control
 {
     display: inline-block;
     width: auto;
+    background-color: #68EDCB
 }
 
 .card-body {
