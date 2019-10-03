@@ -80,7 +80,7 @@ $ pip3 install -r requirements.txt
 ### ENV Variables
 $ export FLASK_APP=application.py # flask run
 $ export DATABASE_URL="Heroku Postgres DB URI"
-$ export GOODREADS_KEY"="Goodreads API Key" [===>](https://www.goodreads.com/api)
+$ export GOODREADS_KEY"="Goodreads API Key" [Here](https://www.goodreads.com/api)
 
 ### IMPORT CSV FILE
 
