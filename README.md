@@ -2,7 +2,7 @@
 
 Web Programming with Python and JavaScript
 
-### Livrebooks.
+### Books.
 
 ### Harvard UNIVERSITY(CS50 Web Programming with Python and JavaScript)
 
