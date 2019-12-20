@@ -89,15 +89,14 @@ $ python import.py
 Screencast presentation: [here](https://youtu.be/7PNRYJ40fLM)
 
 <p align="center">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot1.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot2.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot3.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot4.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot5.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot6.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot7.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot8.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot9.png" width="450">
-  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot10.png" width="450">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot2.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot3.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot4.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot5.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot6.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot7.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot8.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot9.png" width="350">
+  <img src="https://github.com/samyka/Books/blob/master/Screenshot/Screenshot10.png" width="350">
 </p>
